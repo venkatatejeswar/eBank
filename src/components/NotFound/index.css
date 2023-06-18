@@ -1,0 +1,21 @@
+.notfound_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 50px;
+}
+
+.failure_img {
+  width: 50vw;
+}
+.notfound_title {
+  color: #183b56;
+  font-size: 32px;
+  font-weight: 800;
+  margin-bottom: 0px;
+}
+.notfound_para {
+  color: #5a7184;
+  font-size: 22px;
+}
